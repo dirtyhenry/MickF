@@ -4,3 +4,6 @@
 /.swiftpm
 /*.xcodeproj
 .publish
+
+# Mick's list
+/Output
